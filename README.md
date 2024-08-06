@@ -1,2 +1,2 @@
 # Katalon_Project
-Katalon
+Demo Project Katalon Studio KasirAja dengan Guide Rakamin Academy
